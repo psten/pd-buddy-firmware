@@ -11,6 +11,13 @@ request a configured voltage and current.
 [ChibiOS]: http://www.chibios.org/
 [library]: lib/README.md
 
+## License
+
+PD Buddy Sink Firmware is Copyright (C) 2017 Clayton G. Hobbs, and made available under
+the GNU General Public License v3.0.  See LICENSE for more information.
+
+Original repository: https://git.clarahobbs.com/pd-buddy/pd-buddy-firmware
+
 ## Features
 
 * Two boot modes, Setup and Sink, selected by the Setup button's state at
